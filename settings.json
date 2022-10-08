@@ -1,9 +1,41 @@
 {
-    "python.pythonPath": "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "workbench.colorTheme": "Deepdark Material Theme | Full Black Version",
+    "files.exclude": {
+        "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+        }
+    ,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.productIconTheme": "fluent-icons",
+    "jupyter.experimental.debugging": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "afterDelay",
+    "editor.semanticTokenColorCustomizations": {
+    
+    }
+    ,
+        "python.pythonPath": "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    
+        "python.analysis.extraPaths": [
+            "./path-to-code/"
+        ],
+        "jupyter.jupyterServerType": "local",
+        "json.schemas": [
+            
 
-    "python.analysis.extraPaths": [
-        "./path-to-code/"
-    ],
-    "jupyter.jupyterServerType": "local",
-
+        
+        ],
+    
+    
 }
