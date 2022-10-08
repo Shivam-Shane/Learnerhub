@@ -1,0 +1,15 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./IPYTHON",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "IPYTHON"
+    ],
+    "jupyter.jupyterServerType": "local"
+}

@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+
+    "python.analysis.extraPaths": [
+        "./path-to-code/"
+    ],
+    "jupyter.jupyterServerType": "local",
+
+}
